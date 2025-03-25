@@ -1,0 +1,2 @@
+C:/Flutter P/assignment-4gridview-listview-Parawee921/buttom_navi_app/android/app/.cxx/Debug/6p432p4k/x86/CMakeFiles/edit_cache.dir
+C:/Flutter P/assignment-4gridview-listview-Parawee921/buttom_navi_app/android/app/.cxx/Debug/6p432p4k/x86/CMakeFiles/rebuild_cache.dir
